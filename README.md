@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=🌌%20Noen-NLP&fontSize=80&fontAlignY=35&animation=twinkling" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=🌌%20Neon-NLP&fontSize=80&fontAlignY=35&animation=twinkling" /></p>
 
 ---
 A structured journey through Natural Language Processing — from fundamental text processing techniques to modern Transformer architectures and Large Language Models (LLMs).
